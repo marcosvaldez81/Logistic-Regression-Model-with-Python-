@@ -11,3 +11,5 @@ Used Libraries:
   - from sklearn.model_selection import train_test_split
   - from sklearn.linear_model import LogisticRegression 
   - from sklearn.metrics import classification_report, confusion_matrix
+
+Please make sure you download the CSV file and have it in same root as the jupyter notebook in order for it to work. 
